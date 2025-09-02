@@ -13,7 +13,7 @@ Comprehensive analytics platform for educational technology companies featuring 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/edtech-analytics-project.git
+git clone https://github.com/kunitskiialex/edtech-analytics-project.git
 cd edtech-analytics-project
 
 # Set up environment
@@ -50,16 +50,13 @@ edtech-analytics-project/
 ├── scripts/           # Setup and utility scripts
 └── docs/              # Documentation
 📧 Contact
-Author: [Ваше Имя]
-LinkedIn: [ваш-linkedin]
-Email: [ваш-email]
+Author: [Kunytskyi Oleksii]
+LinkedIn: [(https://www.linkedin.com/in/oleksii-kunytskyi-b46186369/)]
+Email: [kunitskii.alex@gmail.com]
 ⭐ Star this repository if you find it useful!
 
 
 
-**Не забудьте заменить YOUR_USERNAME, [Ваше Имя], [ваш-linkedin], [ваш-email] на ваши данные.**
-
-### 8.4 Финальный коммит
 
 ```bash
 git add README.md
