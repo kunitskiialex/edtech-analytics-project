@@ -54,11 +54,3 @@ Author: [Kunytskyi Oleksii]
 LinkedIn: [(https://www.linkedin.com/in/oleksii-kunytskyi-b46186369/)]
 Email: [kunitskii.alex@gmail.com]
 ⭐ Star this repository if you find it useful!
-
-
-
-
-```bash
-git add README.md
-git commit -m "Add comprehensive README with project description"
-git push origin main
