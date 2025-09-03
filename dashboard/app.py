@@ -748,8 +748,16 @@ def generate_insights(metrics, trends_df, funnel_df):
     return insights
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     app.run_server(
         debug=True,
         host=os.getenv('DASH_HOST', '0.0.0.0'),
         port=int(os.getenv('DASH_PORT', 8050))
     )
+=======
+    app.run(
+    debug=True,
+    host='0.0.0.0',
+    port=8050
+)
+>>>>>>> a64bd1b (🚀 Major Update: Professional Analytics Dashboard v2.0)
